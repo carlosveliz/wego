@@ -8,11 +8,11 @@ Recipes
 
 This repo have recipes for configure:
 
-* PostgreSQL - [see](https://github.com/Unholster/chef-webapps/blob/master/recipes/database.rb)
-* Redis servers - [see](https://github.com/Unholster/chef-webapps/blob/master/recipes/reddis.rb)
-* FQDN services - [see](https://github.com/Unholster/chef-webapps/blob/master/recipes/fdqn.rb)
-* User webapps - [see](https://github.com/Unholster/chef-webapps/blob/master/recipes/user.rb)
-* Webapps - [see](https://github.com/Unholster/chef-webapps/blob/master/recipes/webapps.rb)
+* PostgreSQL - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/database.rb)
+* Redis servers - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/reddis.rb)
+* FQDN services - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/fdqn.rb)
+* User webapps - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/user.rb)
+* Webapps - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/webapps.rb)
 
 
 Tempaltes
@@ -20,6 +20,6 @@ Tempaltes
 
 Also can find default templates for lift servers like:
 
-* Newrelic - [see](https://github.com/Unholster/chef-webapps/blob/master/templates/default/newrelic.erb)
-* Nginx  - [see](https://github.com/Unholster/chef-webapps/blob/master/templates/default/nginx-site.erb)
-* Redis - [see](https://github.com/Unholster/chef-webapps/blob/master/templates/default/redis.erb)
+* Newrelic - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/newrelic.erb)
+* Nginx  - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/nginx-site.erb)
+* Redis - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/redis.erb)
