@@ -31,6 +31,7 @@ How to use
 2. Create a Cheffile at the root the project with this lines:
 ```ruby
 site 'https://supermarket.getchef.com/api/v1'
+
 cookbook 'unholster-webapps',
     :path => '../chef-webapps'
 ```
