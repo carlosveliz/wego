@@ -43,7 +43,7 @@ config.berkshelf.enabled = true
 
 
 
-```
+```python
 {
     'foo': 'bar',
 }
