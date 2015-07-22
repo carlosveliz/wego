@@ -40,3 +40,11 @@ cookbook 'unholster-webapps',
 config.berkshelf.berksfile_path = "../chef-webapps/Berksfile"
 config.berkshelf.enabled = true
 ```
+
+
+
+```ruby
+{
+    'foo': 'bar',
+}
+```
