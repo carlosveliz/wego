@@ -28,7 +28,7 @@ How to use
 ---------
 
 1. This repo must be in the same path where you have your proyect (not inside this)
-2. Create a Cheffile at the root the project with this lines:
+2. Create a Cheffile at the root of your project with this lines:
 ```ruby
 site 'https://supermarket.getchef.com/api/v1'
 
