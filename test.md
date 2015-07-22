@@ -8,7 +8,7 @@ Recipes
 
 This repo have recipes for configure:
 
-* PostgreSQL - [look](/recipes/database.rb)
+* PostgreSQL - [look](..wego/master/recipes/database.rb)
 * Redis servers - _`look`: https://github.com/Unholster/chef-webapps/blob/master/recipes/reddis.rb)
 * FQDN services - _`look`: https://github.com/Unholster/chef-webapps/blob/master/recipes/fdqn.rb)
 * User webapps - _`look`: https://github.com/Unholster/chef-webapps/blob/master/recipes/user.rb
