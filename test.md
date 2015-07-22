@@ -6,7 +6,7 @@ This is a central workspace that contain basics chef recipes and templates to be
 Recipes
 -------
 
-This repo have recipes for configure:
+This repository have recipes to configure:
 
 * PostgreSQL - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/database.rb)
 * Redis servers - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/reddis.rb)
@@ -18,7 +18,7 @@ This repo have recipes for configure:
 Templates
 ---------
 
-Also can find default templates for lift servers like:
+Also can find default templates for lift this servers:
 
 * Newrelic - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/newrelic.erb)
 * Nginx  - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/nginx-site.erb)
