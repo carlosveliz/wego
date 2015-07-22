@@ -23,3 +23,8 @@ Also can find default templates for lift servers like:
 * Newrelic - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/newrelic.erb)
 * Nginx  - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/nginx-site.erb)
 * Redis - [source](https://github.com/Unholster/chef-webapps/blob/master/templates/default/redis.erb)
+
+How to use
+---------
+
+This repor must be in the same path where you have your proyect.
