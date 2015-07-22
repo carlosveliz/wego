@@ -27,4 +27,9 @@ Also can find default templates for lift servers like:
 How to use
 ---------
 
-This repor must be in the same path where you have your proyect.
+1. This repo must be in the same path where you have your proyect (not inside this)
+2. Set in you Vagtantfile this two lines:
+```ruby
+config.berkshelf.berksfile_path = "../chef-webapps/Berksfile"
+config.berkshelf.enabled = true
+```
