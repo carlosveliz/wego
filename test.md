@@ -28,7 +28,7 @@ How to use
 ---------
 
 1. This repo must be in the same path where you have your proyect (not inside this)
-2. Set in you Vagtantfile this two lines:
+2. Set in your Vagtantfile (this must be at the root of your ptoject) this two lines:
 ```ruby
 config.berkshelf.berksfile_path = "../chef-webapps/Berksfile"
 config.berkshelf.enabled = true
