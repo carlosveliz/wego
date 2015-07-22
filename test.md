@@ -15,7 +15,7 @@ This repo have recipes for configure:
 * Webapps - [source](https://github.com/Unholster/chef-webapps/blob/master/recipes/webapps.rb)
 
 
-Tempaltes
+Templates
 ---------
 
 Also can find default templates for lift servers like:
