@@ -43,7 +43,7 @@ config.berkshelf.enabled = true
 
 
 
-```json
+```
 {
     'foo': 'bar',
 }
